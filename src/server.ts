@@ -1,11 +1,12 @@
 //PRIMEIRA QUESTÃO:
 function soma(n1: number, n2: number){
-    
-    let soma = n1 + n2;
-    console.log(`Valor da soma:`, soma)
-  }
+  let soma = n1 + n2;
+   for (let i = n1; i < n2; i++){
+   console.log(`Valor da soma:`, n1+=(i+1))
   
-  soma(10,20)
+ }
+}
+ soma(5,10)
  
  
  
