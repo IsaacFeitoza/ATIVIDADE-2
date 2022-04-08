@@ -1,4 +1,4 @@
-//RIMEIRA QUESTÃO:
+//PRIMEIRA QUESTÃO:
 function soma(n1: number, n2: number){
     
     let soma = n1 + n2;
